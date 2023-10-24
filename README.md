@@ -1,4 +1,5 @@
-Hello world script
-====================
+Hello 2
+=======
 
-A simple script showing the basic Hello World! example for the Nextflow framework. 
+A modified version of the nextflow "hello" pipeline that outputs a hello.txt file. 
+Used for testing the seqera platform

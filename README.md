@@ -1,2 +1,4 @@
-# hello_2
-Modified version of the nextflow "hello" pipeline, that outputs a hello.txt file. For testing the seqera platform.
+Hello world script
+====================
+
+A simple script showing the basic Hello World! example for the Nextflow framework. 

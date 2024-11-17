@@ -25,6 +25,7 @@ process helloTask {
 
     script:
     """
+    aws --version
     echo "Hello Lucia" > hello.txt
     """
 }

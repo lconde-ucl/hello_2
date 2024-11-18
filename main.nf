@@ -25,8 +25,8 @@ process helloTask {
 
     script:
     """
-    command -v aws
-    aws --version
+    #command -v aws
+    #aws --version
     echo "Hello Lucia" > hello.txt
     """
 }

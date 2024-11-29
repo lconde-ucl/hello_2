@@ -25,9 +25,13 @@ process helloTask {
 
     script:
     """
+    echo 'Sleeping for 20secs'
     sleep 20
+    echo 'Running job'
     echo "Hello Lucia" > hello.txt
+    echo 'Sleeping for 20secs'
     sleep 20
+    echo "Done"
     """
 }
 
